@@ -4,7 +4,7 @@ public class Pessoa {
     private Integer id;
     private String nome;
     private String email;
-    private Double cpf;
+    private String cpf;
 
     public Integer getId() {
         return id;
@@ -30,11 +30,11 @@ public class Pessoa {
         this.email = email;
     }
 
-    public Double getCpf() {
+    public String getCpf() {
         return cpf;
     }
 
-    public void setCpf(Double cpf) {
+    public void setCpf(String cpf) {
         this.cpf = cpf;
     }
 }
