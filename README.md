@@ -1,3 +1,3 @@
 # Comanda Virtual
 
-Projeto final para a disciplina algoritimos de programção do curso de Sistemas de Informação da UTFPR - 2019
+Projeto final para a disciplina algoritmos de programação do curso de Sistemas de Informação da UTFPR - 2019
